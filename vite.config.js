@@ -8,6 +8,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base: '/Basic-Calculator/',
 
   server: {
     host: true,
